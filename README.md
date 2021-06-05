@@ -1,11 +1,11 @@
-﻿# Table des matières
+# Table des matières
 1. [Présentation du Portfolio](#Présentation-du-portfolio)
 2. [Préambule](#Préambule)
 3. [Mes productions](#Mes-productions)
-		1.  [TP9](#tp9)
-		2.  [TP10](#tp10)
-		3.  [TP12](#tp12)
-		4.  [TP15](#tp15)
+	1.  [TP9](#tp9)
+	2.  [TP10](#tp10)
+	3.  [TP12](#tp12)
+	4.  [TP15](#tp15)
 4. [Conclusion](#Conclusion)
 
 # Présentation du portfolio
